@@ -1,0 +1,42 @@
+* 👋 Hi, I’m @km594 ... Krispin!
+* 👀 I’m interested in ...lots. Lots and lots.
+ 
+  * Optimization
+  * Machine Learning
+  * Natural Language Processing
+  * Mechanical design
+  * Robotics
+  * Business and Operations Analysis
+  
+* 🌱 I've learned to use a lot of different software in my journey. 
+ 
+The table below summarizes what I've learned (I'm always learning ;):
+ 
+|The hat I wear|The program or language I use|
+|--------|-----------------|
+|Developer|Python|
+||HTML/CSS|
+||JavaScript|
+||C/C++|
+||PowerShell|
+||Arduino|
+||Visual Basic for Applications|
+|Analyst|Python|
+||M (Power Query)|
+||DAX (Data Analysis Expressions)|
+||MATLAB|
+||SciLab|
+||Power Bi|
+|Designer|Solidworks|
+||Autocad Inventor|
+||Autocad Fusion360|
+||OnShape|
+||ProEngineer/Creo|
+
+* 💞️ I’m looking to collaborate on ... actually, not looking (at the moment, though I am open to it! Always looking to upskill + upgrade)
+* 📫 To reach me, drop a line here, on Linkedin (https://www.linkedin.com/in/kmoutia594/), or via Facebook Messenger (krispin.moutia)
+
+<!---
+km594/km594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
