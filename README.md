@@ -16,7 +16,7 @@ The table below summarizes what I've learned (I'm always learning ;):
 |--------|-----------------|
 |Developer|Python|
 ||HTML/CSS|
-||JavaScript|
+||JavaScript/TypeScript|
 ||C/C++|
 ||PowerShell|
 ||Arduino|
