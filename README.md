@@ -6,7 +6,7 @@
   * Natural Language Processing
   * Mechanical design
   * Robotics
-  * Business and Operations Analysis
+  * Business & operations analytics
   
 * 🌱 I've learned to use a lot of different software in my journey. 
  
@@ -24,7 +24,7 @@ The table below summarizes what I've learned (I'm always learning ;):
 |Analyst|Python|
 ||M (Power Query)|
 ||DAX (Data Analysis Expressions)|
-||MATLAB|
+||MATLAB/Octave|
 ||SciLab|
 ||Power Bi|
 |Designer|Solidworks|
